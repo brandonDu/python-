@@ -70,7 +70,7 @@
 - *David Kershaw* 修正了3.10节的 **catTwice**函数错误。
 - *Eddie Lam* 修正了第1,2,3章大量错误，同时修复了Makefile文件，从而我们可以创建索引。同时帮助我们建立了版本库。
 - *Man-Yong Lee* 修正了2.4节的一个样例。
-- *David Mayo*指出第一章的某个词语(*无意识*)应该替换为*下意识*。
+- *David Mayo*指出第一章的某个词语(*unconsciously*)应该替换为*subconsciously*。
 - *Chris McAloon* 修正了3.9和3.10节的错误。
 - *Matthew J. Moelter*作为一个长期贡献者，为本书提供了大量修订和建议。
 - *Simon Dicon Montford*发现了第3章的一个函数定义遗失和几个变量的命名错误。同时指出第13章的*increment*函数错误。
@@ -83,3 +83,12 @@
 - *Craig T. Snydal* 在 *Drew University* 使用本书教学，并给变量命名和修正提供了宝贵意见。
 - *Ian Thomas* 和他的学生在编程课程中使用本书，他们是首批检验本书后半部分的贡献者，同时他们修订了大量错误，提供了大量建议。
 - *Keith Verheyden* 修正了第3章的一个错误。
+- *Peter Winstanley*指出了拉丁版第3章的一个长期存在的错误。
+- *Chris Wrobel*修正了**I/O和异常**章节的一个错误。
+- *Moshe Zadka*撰写了**字典**章节的早期草稿，为本书早期工作做出了杰出贡献。
+- *Christoph Zwerschke*指出多个修正和教学建议，并解释了*gleich*和*selbe*的不同。
+- *James Mayer* 修正了一堆拼写和排版问题，甚至包括贡献列表中的两个问题。
+- *Hayden McAfee* 解决了一个在两个例子之间令人困惑的差异。
+- *Angel Arnal*作为国际翻译组织的一员，参与了西班牙语的翻译，并在翻译过程中修正了英语版的一些错误。
+- *Tauhidul Hoque* 和 *Lex Berezhny* 绘制了第一章的插图，并优化了其他章节插图。
+- *Michele Alzetta* 博士修正了第8章的一个错误，并指出了**Fibonacci and Old Maid**案例的一些问题。
